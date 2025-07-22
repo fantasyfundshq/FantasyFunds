@@ -80,6 +80,10 @@ We believe that learning about markets should be engaging, accessible, and strat
 
 <br>
 
+## 📄 License
+
+This project is proprietary content by FantasyFunds - see the [LICENSE](LICENSE) file for details.
+
 **© 2025 FantasyFunds. All rights reserved.**
 
 </div>
